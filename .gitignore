@@ -1,0 +1,6 @@
+./build/
+assets/node_modules/
+package-lock.json
+package.json
+webpack.config.js
+deps/
